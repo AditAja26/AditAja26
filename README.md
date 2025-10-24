@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning C++<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with programming<br>🌱 I’m currently learning OOP
+🔭 I’m currently learning C++<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with programming<br>🌱 I’m currently learning AI/ML and Cloud Computing by GCP
 
 
 # 💻 Tech Stack:
